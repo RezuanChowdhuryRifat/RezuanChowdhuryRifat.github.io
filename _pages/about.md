@@ -11,13 +11,13 @@ redirect_from:
 
 
 <!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-👨🏻‍💻 I recently graduated from North South University with a Bachelor's in Computer Science & Engineering.
+👨🏻‍💻 I recently graduated from North South University with a Bachelor's in Computer Science & Engineering. 
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research areas encompass the application of machine learning (ML) in medical image analysis and the advancement of ML through Quantum computing.
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 I am excited to pursue a Master's in Computer Science, where I hope to collaborate with leading researchers and contribute to advancements in ML. 
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+
 
 # Selected Experience
 
