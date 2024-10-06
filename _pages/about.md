@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background-color: #f8f9fa;">
+<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 10px; background-color: #f8f9fa;">
     <h2>👨🏻‍💻 About Me</h2>
     <p>I recently graduated from North South University with a Bachelor's in Computer Science & Engineering.</p>
     <p>My research areas encompass the application of Machine learning (ML) in medical image analysis and the advancement of ML through Quantum computing.</p>
