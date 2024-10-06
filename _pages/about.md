@@ -25,5 +25,16 @@ redirect_from:
 <div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background-color: #f1f1f1; margin: 20px 0;">
   <h2>💻 Projects</h2>
   <h3>Drug Repurposing for COVID-19 using Graph Neural Network</h3>
-  <p>We implemented an auto tooth segmentation system powered by <strong>YOLOv7</strong> and the <strong>Segment Anything Model</strong>. The object detection model was trained to detect bad root canals, which were later used as a prompt for the segmentation model to generate the segmentation mask.</p>
+
+  <br>
+  <h3>Bad Root Canal Detection</h3>
+  <p>We implemented an auto tooth segmentation system powered by <strong>YOLOv7</strong> and the <strong>Segment 
+    Anything Model</strong>. The object detection model was trained to detect bad root canals, which were later used 
+    as a prompt for the segmentation model to generate the segmentation mask.</p>
+    <p align="center">
+      <img src="images/profile 1.1.png" alt="First Image" width="45%" />
+      <img src="images/profile 1.2.png" alt="Second Image" width="45%" />
+      <img src="images/profile 1.3.png" alt="Second Image" width="45%" />
+    </p>
+    
 </div>
