@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-
-<!-- ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"} -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
