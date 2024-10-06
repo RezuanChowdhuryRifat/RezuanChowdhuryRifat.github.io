@@ -21,7 +21,7 @@ redirect_from:
 
 
 # 👨🏻‍🔬 Research Experience
-I worked as a **Student Researcher** at North South University under the supervision of Dr. Mohammad Abdul Qayum on **Quantum Machine Learning**, where I developed a hybrid classical-quantum machine learning model for breast cancer classification. Our work has been submitted to the International Conference on Computer and Information Technology (ICCIT). 
+I worked as a **Student Researcher** at North South University under the supervision of Dr. Mohammad Abdul Qayum on **Quantum Machine Learning**, where I developed a hybrid classical-quantum machine learning model for breast cancer classification. Our work has been submitted to the 27th International Conference on Computer and Information Technology (ICCIT 2024). 
 
 
 
