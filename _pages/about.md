@@ -25,7 +25,11 @@ I worked as a **Student Researcher** at North South University under the supervi
 
 
 
-# Projects
+# 💻 Projects
+
+## Drug Repurposing for COVID-19 using Graph Neural Network
+
+
 
 ## Bad Root Canal Detection
 We implemented an auto tooth segmentation system powered by **YOLOv7** and the **Segment Anything Model**. The object detection model was trained to detect bad root canals, which were later used as a prompt for the segmentation model to generate the segmentation mask. 
