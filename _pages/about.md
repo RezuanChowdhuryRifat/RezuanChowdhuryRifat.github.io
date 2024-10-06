@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Rezuan!"
+<!-- title: "👋🏼 Hello there, I'm Rezuan!" -->
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,28 +10,29 @@ redirect_from:
 
 
 
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>👋🏼 Hello there, I'm Rezuan!</title>
     <style>
-        /* General Section Styles */
+        /* General Styles */
         body {
-            font-family: Arial, sans-serif; /* Add a default font */
+            font-family: Arial, sans-serif; /* Default font */
             background-color: #f0f0f0; /* Light background color */
             color: #333; /* Text color */
             margin: 0;
             padding: 0;
         }
 
+        /* Section Styles */
         section {
             margin: 20px auto; /* Center the sections */
             padding: 20px;
             border-radius: 10px;
             max-width: 800px; /* Limit the max width */
             background-color: #ffffff; /* White background for sections */
-            box-shadow: 0 4px 0px rgba(0, 0, 0, 0.2); /* Stronger shadow effect */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow only for sections */
         }
 
         /* Image Styling */
@@ -85,3 +86,5 @@ redirect_from:
 
 </body>
 </html>
+
+
