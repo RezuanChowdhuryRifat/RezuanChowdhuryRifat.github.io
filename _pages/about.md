@@ -22,3 +22,9 @@ redirect_from:
 
 # 👨🏻‍🔬 Research Experience
 I worked as a **Student Researcher** at North South University under the supervision of Dr. Mohammad Abdul Qayum on **Quantum Machine Learning**, where I developed a hybrid classical-quantum machine learning model for breast cancer classification. Our work has been submitted to the International Conference on Computer and Information Technology (ICCIT). 
+
+
+
+# Projects
+
+## Bad Root Canal Detection
