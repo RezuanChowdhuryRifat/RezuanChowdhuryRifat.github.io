@@ -32,9 +32,9 @@ redirect_from:
     Anything Model</strong>. The object detection model was trained to detect bad root canals, which were later used 
     as a prompt for the segmentation model to generate the segmentation mask.</p>
     <p align="center">
-      <img src="images/profile 1.1.png" alt="First Image" width="45%" />
-      <img src="images/profile 1.2.png" alt="Second Image" width="45%" />
-      <img src="images/profile 1.3.png" alt="Second Image" width="45%" />
+      <img src="images/project 1.1.png" alt="First Image" width="30%" />
+      <img src="images/project 1.2.png" alt="Second Image" width="30%" />
+      <img src="images/project 1.3.png" alt="Third Image" width="30%" />
     </p>
     
 </div>
