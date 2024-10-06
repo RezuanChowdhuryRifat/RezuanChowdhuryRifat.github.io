@@ -31,6 +31,9 @@ I worked as a **Student Researcher** at North South University under the supervi
 We implemented an auto tooth segmentation system powered by **YOLOv7** and the **Segment Anything Model**. The object detection model was trained to detect bad root canals, which were later used as a prompt for the segmentation model to generate the segmentation mask. 
 
 <p align="center">
-  <img src="project 1.1.png" alt="First Image" width="45%" />
-  <img src="project 1.2.png" alt="Second Image" width="45%" />
+  <img src="images\project 1.1.png" alt="First Image" width="45%" />
+  <img src="images\project 1.2.png" alt="Second Image" width="45%" />
 </p>
+
+
+## 
