@@ -31,7 +31,7 @@ redirect_from:
             border-radius: 10px;
             max-width: 800px; /* Limit the max width */
             background-color: #ffffff; /* White background for sections */
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); /* Stronger shadow effect */
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow effect */
         }
 
         /* Image Styling */
