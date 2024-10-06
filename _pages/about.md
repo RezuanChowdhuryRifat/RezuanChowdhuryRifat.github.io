@@ -18,13 +18,13 @@ redirect_from:
 </div>
 
 
-<div style="box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background-color: #ffffff;">
+<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background-color: #ffffff;">
     <h2>👨🏻‍🔬 Research Experience</h2>
     <p>I worked as a <strong>Student Researcher</strong> at North South University under the supervision of Dr. Mohammad Abdul Qayum on <strong>Quantum Machine Learning</strong>, where I developed a hybrid classical-quantum machine learning model for breast cancer classification. Our work has been submitted to the 27th International Conference on Computer and Information Technology (ICCIT 2024).</p>
 </div>
 
 
-<div style="box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); padding: 20px; border-radius: 10px; background-color: #f1f1f1;">
+<div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background-color: #f1f1f1;">
     <h2>💻 Projects</h2>
 
     <h3>Drug Repurposing for COVID-19 using Graph Neural Network</h3>
