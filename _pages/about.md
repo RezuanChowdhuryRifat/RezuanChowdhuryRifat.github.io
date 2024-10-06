@@ -1,14 +1,4 @@
----
-permalink: /
-title: "👋🏼 Hello there, I'm Rezuan!"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,10 +6,19 @@ redirect_from:
     <title>Portfolio</title>
     <style>
         /* General Section Styles */
+        body {
+            font-family: Arial, sans-serif; /* Add a default font */
+            background-color: #f0f0f0; /* Light background color */
+            color: #333; /* Text color */
+            margin: 0;
+            padding: 0;
+        }
+
         section {
-            margin: 20px;
+            margin: 20px auto; /* Center the sections */
             padding: 20px;
             border-radius: 10px;
+            max-width: 800px; /* Limit the max width */
         }
 
         /* Shadow for the About Section */
@@ -44,10 +43,16 @@ redirect_from:
         img {
             height: auto;
             max-height: 200px;
-            width: auto;
-            max-width: 30%;
+            width: 30%; /* Set the image width to 30% */
             border-radius: 10px;
             margin: 10px;
+        }
+
+        /* Center images within their container */
+        .image-container {
+            display: flex;
+            justify-content: center; /* Center images */
+            flex-wrap: wrap; /* Wrap images to new line if needed */
         }
     </style>
 </head>
@@ -76,12 +81,14 @@ redirect_from:
         <h3>Bad Root Canal Detection</h3>
         <p>We implemented an auto tooth segmentation system powered by <strong>YOLOv7</strong> and the <strong>Segment Anything Model</strong>. The object detection model was trained to detect bad root canals, which were later used as a prompt for the segmentation model to generate the segmentation mask.</p>
 
-        <p align="center">
+        <div class="image-container">
             <img src="images/project1.1.png" alt="First Image" />
             <img src="images/project1.2.png" alt="Second Image" />
             <img src="images/project1.3.png" alt="Third Image" />
-        </p>
+        </div>
     </section>
 
 </body>
 </html>
+
+
