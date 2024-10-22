@@ -28,9 +28,11 @@ redirect_from:
   
   <br>
   <h3>Bad Root Canal Detection</h3>
-  <p>We implemented an auto tooth segmentation system powered by <strong>YOLOv7</strong> and the <strong>Segment 
+  <p>We implemented an auto tooth segmentation system powered by <strong>YOLOv5</strong> and the <strong>Segment 
     Anything Model</strong>. The object detection model was trained to detect bad root canals, which were later used 
-    as a prompt for the segmentation model to generate the segmentation mask.</p>
+    as a prompt for the segmentation model to generate the segmentation mask. <a href="https://github.com/RezuanChowdhuryRifat/Bad-root-canal-detection/tree/main">
+      Code</a>
+  </p>
     <p align="center">
       <img src="images/project 1.1.png" alt="First Image" width="30%" />
       <img src="images/project 1.2.png" alt="Second Image" width="30%" />
@@ -38,14 +40,14 @@ redirect_from:
     </p>
     <br>
     <h3>Drug Repurposing for COVID-19 using Graph Neural Network</h3>
-    <!-- <p>We implemented an auto tooth segmentation system powered by <strong>YOLOv7</strong> and the <strong>Segment 
-      Anything Model</strong>. The object detection model was trained to detect bad root canals, which were later used 
-      as a prompt for the segmentation model to generate the segmentation mask.</p>
+    <p>
+      
+    </p>
       <p align="center">
         <img src="images/project 1.1.png" alt="First Image" width="30%" />
         <img src="images/project 1.2.png" alt="Second Image" width="30%" />
         <img src="images/project 1.3.png" alt="Third Image" width="30%" />
-      </p> -->
+      </p>
     <br>
     
 </div>
