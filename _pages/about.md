@@ -41,13 +41,13 @@ redirect_from:
     <br>
     <h3>Drug Repurposing for COVID-19 using Graph Neural Network</h3>
     <p>
-      
+      I successfully replicated the results of the research paper titled 
+      <a href="https://www.nature.com/articles/s41598-021-02353-5">
+        "Drug repurposing for COVID-19 using graph neural network and harmonizing multiple evidence"</a> 
+      by following the original methodologies and using Graph Neural Network. <a href="https://github.com/RezuanChowdhuryRifat/Drug-Repurposing">
+        Code</a> 
     </p>
-      <p align="center">
-        <img src="images/project 1.1.png" alt="First Image" width="30%" />
-        <img src="images/project 1.2.png" alt="Second Image" width="30%" />
-        <img src="images/project 1.3.png" alt="Third Image" width="30%" />
-      </p>
+     
     <br>
     
 </div>
