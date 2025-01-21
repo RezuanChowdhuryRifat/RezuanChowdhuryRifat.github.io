@@ -44,7 +44,7 @@ redirect_from:
       I successfully replicated the results of the research paper titled 
       <a href="https://www.nature.com/articles/s41598-021-02353-5">
         "Drug repurposing for COVID-19 using graph neural network and harmonizing multiple evidence"</a> 
-      by following the original methodologies and using Graph Neural Network. <a href="https://github.com/RezuanChowdhuryRifat/Drug-Repurposing">
+      by following the original methodologies and using Graph Neural Network. Afterwards, we utilized a quantum training layer as a drug ranking model. <a href="https://github.com/RezuanChowdhuryRifat/Drug-Repurposing">
         Code</a> 
     </p>
      
