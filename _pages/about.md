@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background-color: #ffffff; margin: 20px 0;">
   <h2>👨🏻‍🔬 Research Experience</h2>
-  <p>I worked as a <strong>Student Researcher</strong> at North South University under the supervision of Dr. Mohammad Abdul Qayum on <strong>Quantum Machine Learning</strong>, where I developed a hybrid classical-quantum machine learning model for breast cancer classification. Our work has been submitted to the 27th International Conference on Computer and Information Technology (ICCIT 2024).</p>
+  <p>I worked as an <strong> undergrad research assistant</strong> at North South University under the supervision of Dr. Mohammad Abdul Qayum on <strong>Quantum Machine Learning</strong>, where I developed an improved dressed quantum neural network for breast cancer classification. Our work has been accepted at the 27th International Conference on Computer and Information Technology (ICCIT 2024).</p>
 </div>
 
 <div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background-color: #f1f1f1; margin: 20px 0;">
